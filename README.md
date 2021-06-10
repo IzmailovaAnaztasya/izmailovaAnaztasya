@@ -20,7 +20,7 @@
 <br />
 <br />
 
-### Connect with me:
+### Social networks:
 
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/1384/1384055.png" />](https://wa.me/89037895264)
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/izmailova_anastasya/)
