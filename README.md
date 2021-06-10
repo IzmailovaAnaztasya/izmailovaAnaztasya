@@ -24,4 +24,4 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/512/1384/1384055.png" />](https://wa.me/89037895264)
 [<img align="left" alt="GitHub" width="26px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/izmailova_anastasya/)
-[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/IzmailovaAnaztasya/badges/micro" />](https://www.codewars.com/users/IzmailovaAnaztasya)
+[<img align="left" alt="CodeWars" width="100px" src="https://www.codewars.com/users/IzmailovaAnaztasya/badges/micro" />](https://www.codewars.com/users/IzmailovaAnaztasya)
